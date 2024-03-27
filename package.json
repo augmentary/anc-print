@@ -1,0 +1,19 @@
+{
+  "name": "ancestry-print",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "csv": "^6.2.5",
+    "csv-generate": "^4.2.1",
+    "csv-parse": "^5.3.3",
+    "playwright": "^1.28.1",
+    "playwright-extra": "^4.3.5",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
